@@ -1,0 +1,22 @@
+eureka:
+    client:
+        fetch-registry: false
+        register-with-eureka: false
+    instance:
+        hostname: localhost
+    server:
+        #（设为false，关闭自我保护主要）
+        enable-self-preservation: false
+        # 清理间隔（单位毫秒，默认是60*1000）3S检查一次
+        eviction-interval-timer-in-ms: 3000
+  # logback
+logging:
+    config: classpath:conf/logback-spring.xml
+server:
+    port: 8761
+spring:
+    application:
+        name: rims-eureka-server
+    sleuth:
+        sampler:
+            percentage: 1.0

@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87064ab1-84f6-4832-9694-14cb033b4567" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.2.5" />
+        <option name="userSettingsFile" value="G:\BaiduNetdiskDownload\apache-maven-3.2.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1abuFMK10aeWmCEJ7l3c9wujAKj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/request" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/xc-service-provider/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15820312" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.xuecheng.framework.domain.cms.request" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xuecheng.test" />
+      <recent name="com.xuecheng.cms" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\BaiduNetdiskDownload\heima-workspace\xc-service-provider\src\main\resources" />
+      <recent name="G:\BaiduNetdiskDownload\heima-workspace\xc-framework-model\src\main\java\com\xuecheng\domain" />
+      <recent name="G:\BaiduNetdiskDownload\heima-workspace\xc-framework-common\src\main\java\com\xuecheng\framework\model" />
+      <recent name="G:\BaiduNetdiskDownload\heima-workspace\xc-service-provider\src\main\java\com\xuecheng\web\dao" />
+      <recent name="G:\BaiduNetdiskDownload\heima-workspace\xc-service-provider\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CmsApplication">
+    <configuration name="SnowflakeIdWorker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.framework.utils.SnowflakeIdWorker" />
+      <module name="xc-framework-utils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.framework.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoTest.test1 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xc-service-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuecheng.test" />
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.test.DemoTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xc-service-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuecheng.test" />
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.test.DemoTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.web.ProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="xc-service-eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.server.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.server.eureka.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SnowflakeIdWorker" />
+      <item itemvalue="JUnit.DemoTest.test1" />
+      <item itemvalue="Spring Boot.CmsApplication" />
+      <item itemvalue="Spring Boot.EurekaApplication" />
+      <item itemvalue="JUnit.DemoTest.test1 (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DemoTest.test1 (1)" />
+        <item itemvalue="JUnit.DemoTest.test1" />
+        <item itemvalue="Spring Boot.EurekaApplication" />
+        <item itemvalue="Application.SnowflakeIdWorker" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87064ab1-84f6-4832-9694-14cb033b4567" name="Default Changelist" comment="" />
+      <created>1587016514406</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587016514406</updated>
+      <workItem from="1587016525620" duration="15432000" />
+      <workItem from="1587106147070" duration="5130000" />
+      <workItem from="1587349920507" duration="34185000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="100" key="#Menus_and_Toolbars" timestamp="1587087633025">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="100" key="#Menus_and_Toolbars/0.0.1920.1040@0.0.1920.1040" timestamp="1587087633025" />
+    <state x="452" y="100" key="#Notifications" timestamp="1587349781816">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="100" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1587349781816" />
+    <state x="414" y="172" width="1349" height="695" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587456311275">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="172" width="1349" height="695" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587456311275" />
+    <state x="778" y="182" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog" timestamp="1587087745913">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="778" y="182" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587087745913" />
+    <state x="721" y="164" key="#com.intellij.ide.util.MemberChooser" timestamp="1587373782863">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="721" y="164" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587373782863" />
+    <state x="386" y="439" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1587449266381">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="386" y="439" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587449266381" />
+    <state x="667" y="370" width="592" height="309" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587088220921">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="370" width="592" height="309" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1587088220921" />
+    <state x="627" y="213" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587368620101">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="627" y="213" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587368620101" />
+    <state width="468" height="582" key="DebuggerActiveHint" timestamp="1587433203344">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="468" height="582" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1587433203344" />
+    <state x="654" y="144" key="FileChooserDialogImpl" timestamp="1587350138315">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="654" y="144" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587350138315" />
+    <state width="1867" height="390" key="GridCell.Tab.0.bottom" timestamp="1587458389007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="390" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587458389007" />
+    <state width="1867" height="390" key="GridCell.Tab.0.center" timestamp="1587458389006">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="390" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587458389006" />
+    <state width="1867" height="390" key="GridCell.Tab.0.left" timestamp="1587458389006">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="390" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587458389006" />
+    <state width="1867" height="390" key="GridCell.Tab.0.right" timestamp="1587458389006">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="390" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587458389006" />
+    <state width="1867" height="390" key="GridCell.Tab.1.bottom" timestamp="1587456374709">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="390" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587456374709" />
+    <state width="1867" height="390" key="GridCell.Tab.1.center" timestamp="1587456374708">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="390" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587456374708" />
+    <state width="1867" height="390" key="GridCell.Tab.1.left" timestamp="1587456374707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="390" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587456374707" />
+    <state width="1867" height="390" key="GridCell.Tab.1.right" timestamp="1587456374708">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="390" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587456374708" />
+    <state x="377" y="97" key="Maven.ArtifactSearchDialog" timestamp="1587367383932">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="377" y="97" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587367383932" />
+    <state x="535" y="159" key="NewModule_or_Project.wizard" timestamp="1587091626861">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="535" y="159" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1587091626861" />
+    <state x="397" y="0" key="SettingsEditor" timestamp="1587374275194">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="397" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587374275194" />
+    <state x="736" y="294" key="chooseDestDirectoryDialog" timestamp="1587088190099">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="736" y="294" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587088190099" />
+    <state x="510" y="17" width="901" height="1005" key="find.popup" timestamp="1587022889950">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="510" y="17" width="901" height="1005" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587022889950" />
+    <state width="750" height="530" key="javadoc.popup" timestamp="1587087226245">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="750" height="530" key="javadoc.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587087226245" />
+    <state x="281" y="256" width="1598" height="685" key="new project wizard" timestamp="1587345160526">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="281" y="256" width="1598" height="685" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1587345160526" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1587438502730">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587438502730" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/xc-framework-utils/src/main/java/com/xuecheng/framework/utils/SnowflakeIdWorker.java</url>
+          <line>141</line>
+          <properties class="com.xuecheng.framework.utils.SnowflakeIdWorker" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

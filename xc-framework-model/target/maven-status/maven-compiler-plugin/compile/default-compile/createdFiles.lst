@@ -1,0 +1,13 @@
+com\xuecheng\domain\cms\CmsConfig.class
+com\xuecheng\domain\cms\response\CmsPageResult.class
+com\xuecheng\domain\cms\response\CmsCode.class
+com\xuecheng\domain\cms\CmsConfigModel.class
+com\xuecheng\domain\cms\response\CoursePreviewResult.class
+com\xuecheng\domain\cms\CmsPageParam.class
+com\xuecheng\domain\cms\response\GenerateHtmlResult.class
+com\xuecheng\domain\cms\ext\CmsTemplateExt.class
+com\xuecheng\domain\cms\CmsSiteServer.class
+com\xuecheng\domain\cms\ext\CmsPageExt.class
+com\xuecheng\domain\cms\CmsPage.class
+com\xuecheng\domain\cms\CmsTemplate.class
+com\xuecheng\domain\cms\CmsSite.class
