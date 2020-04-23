@@ -1,4 +1,4 @@
-package com.xuecheng.web.dao;
+package com.xuecheng.web.dao.master;
 
 import com.xuecheng.domain.SysConfig;
 import org.apache.ibatis.annotations.Mapper;

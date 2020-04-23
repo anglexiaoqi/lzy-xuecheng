@@ -2,18 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87064ab1-84f6-4832-9694-14cb033b4567" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/xc-service-provider/src/main/java/com/xuecheng/web/config/MybatisDbAConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-provider/src/main/java/com/xuecheng/web/config/MybatisDbBConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-provider/src/main/java/com/xuecheng/web/dao/second/SysConfig2Mapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xc-service-provider/src/main/resources/mapper/second/SysConfig2Mapper.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xc-framework-model/target/classes/META-INF/xc-framework-model.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xc-service-consumer/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-consumer/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xc-service-consumer/target/surefire-reports/TEST-com.xuecheng.test.DemoTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-consumer/target/surefire-reports/TEST-com.xuecheng.test.DemoTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xc-service-consumer/target/surefire-reports/com.xuecheng.test.DemoTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-consumer/target/surefire-reports/com.xuecheng.test.DemoTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xc-service-consumer/target/xc-service-consumer-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-consumer/target/xc-service-consumer-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xc-service-eureka/target/xc-service-eureka-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-eureka/target/xc-service-eureka-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xc-service-provider/src/main/java/com/xuecheng/web/controller/DemoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-provider/src/main/java/com/xuecheng/web/controller/DemoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xc-service-provider/target/surefire-reports/TEST-com.xuecheng.test.DemoTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-provider/target/surefire-reports/TEST-com.xuecheng.test.DemoTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xc-service-provider/target/surefire-reports/com.xuecheng.test.DemoTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-provider/target/surefire-reports/com.xuecheng.test.DemoTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xc-service-provider/target/xc-service-provider.jar" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-provider/target/xc-service-provider.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xc-service-provider/target/xc-service-provider.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-provider/target/xc-service-provider.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xc-service-provider/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-provider/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xc-service-provider/src/main/java/com/xuecheng/web/dao/SysConfigMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-provider/src/main/java/com/xuecheng/web/dao/master/SysConfigMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xc-service-provider/src/main/java/com/xuecheng/web/service/impl/SysConfigServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-provider/src/main/java/com/xuecheng/web/service/impl/SysConfigServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xc-service-provider/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-provider/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xc-service-provider/src/main/resources/mapper/SysConfigMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-provider/src/main/resources/mapper/master/SysConfigMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xc-service-provider/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-provider/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xc-service-provider/target/classes/com/xuecheng/web/controller/DemoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-provider/target/classes/com/xuecheng/web/controller/DemoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xc-service-provider/target/classes/com/xuecheng/web/dao/SysConfigMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xc-service-provider/target/classes/com/xuecheng/web/service/impl/SysConfigServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-provider/target/classes/com/xuecheng/web/service/impl/SysConfigServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xc-service-provider/target/classes/mapper/SysConfigMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xc-service-provider/xc-service-provider.iml" beforeDir="false" afterPath="$PROJECT_DIR$/xc-service-provider/xc-service-provider.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +66,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1abuFMK10aeWmCEJ7l3c9wujAKj" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -79,7 +85,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/xc-framework-model/src/main/java/com/xuecheng/framework/domain/cms/request" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/xc-framework-utils/src/main/java/com/xuecheng/framework/utils" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/xc-service-provider/src/main/resources/mapper/second" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -95,22 +101,27 @@
     <option name="notificationShown" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\BaiduNetdiskDownload\heima-workspace\xc-service-provider\src\main\resources\mapper\master" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.xuecheng.framework.domain.cms.request" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xuecheng.web.dao.second" />
+      <recent name="com.xuecheng.web.config" />
       <recent name="com.xuecheng.test" />
       <recent name="com.xuecheng.cms" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\BaiduNetdiskDownload\heima-workspace\xc-service-provider\src\main\resources\mapper\second" />
+      <recent name="G:\BaiduNetdiskDownload\heima-workspace\xc-service-provider\src\main\java\com\xuecheng\web\config" />
       <recent name="G:\BaiduNetdiskDownload\heima-workspace\xc-framework-utils\src\main\java\com\xuecheng\framework\utils" />
       <recent name="G:\BaiduNetdiskDownload\heima-workspace\xc-framework-common\src\main\java\com\xuecheng\framework\export" />
       <recent name="G:\BaiduNetdiskDownload\heima-workspace\xc-service-provider\src\main\resources" />
-      <recent name="G:\BaiduNetdiskDownload\heima-workspace\xc-framework-model\src\main\java\com\xuecheng\domain" />
-      <recent name="G:\BaiduNetdiskDownload\heima-workspace\xc-framework-common\src\main\java\com\xuecheng\framework\model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DemoController">
+  <component name="RunManager" selected="JUnit.DemoTest.test1 (1)">
     <configuration name="DemoController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xuecheng.web.controller.DemoController" />
       <module name="xc-service-provider" />
@@ -199,8 +210,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DemoController" />
         <item itemvalue="JUnit.DemoTest.test1 (1)" />
+        <item itemvalue="Application.DemoController" />
         <item itemvalue="JUnit.DemoTest.test1" />
         <item itemvalue="Spring Boot.EurekaApplication" />
         <item itemvalue="Application.SnowflakeIdWorker" />
@@ -220,7 +231,7 @@
       <workItem from="1587016525620" duration="15432000" />
       <workItem from="1587106147070" duration="5130000" />
       <workItem from="1587349920507" duration="38521000" />
-      <workItem from="1587547956581" duration="4382000" />
+      <workItem from="1587547956581" duration="11127000" />
     </task>
     <servers />
   </component>
@@ -240,6 +251,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="172" width="1349" height="695" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587543910898" />
+    <state x="683" y="317" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587623379896">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="683" y="317" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587623379896" />
     <state x="778" y="182" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog" timestamp="1587087745913">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -256,10 +271,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="667" y="370" width="592" height="309" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1587088220921" />
-    <state x="627" y="213" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587368620101">
+    <state x="627" y="213" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587621512748">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="627" y="213" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587368620101" />
+    <state x="627" y="213" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587621512748" />
     <state width="468" height="582" key="DebuggerActiveHint" timestamp="1587433203344">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -268,22 +283,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="654" y="144" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587350138315" />
-    <state width="1867" height="94" key="GridCell.Tab.0.bottom" timestamp="1587619228218">
+    <state width="1867" height="283" key="GridCell.Tab.0.bottom" timestamp="1587626328140">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="94" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587619228218" />
-    <state width="1867" height="94" key="GridCell.Tab.0.center" timestamp="1587619228218">
+    <state width="1867" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587626328140" />
+    <state width="1867" height="283" key="GridCell.Tab.0.center" timestamp="1587626328139">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="94" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587619228218" />
-    <state width="1867" height="94" key="GridCell.Tab.0.left" timestamp="1587619228218">
+    <state width="1867" height="283" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587626328139" />
+    <state width="1867" height="283" key="GridCell.Tab.0.left" timestamp="1587626328139">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="94" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587619228218" />
-    <state width="1867" height="94" key="GridCell.Tab.0.right" timestamp="1587619228218">
+    <state width="1867" height="283" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587626328139" />
+    <state width="1867" height="283" key="GridCell.Tab.0.right" timestamp="1587626328140">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="94" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587619228218" />
+    <state width="1867" height="283" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587626328140" />
     <state width="1867" height="360" key="GridCell.Tab.1.bottom" timestamp="1587546457089">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -316,10 +331,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="736" y="294" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587088190099" />
-    <state x="510" y="17" width="901" height="1005" key="find.popup" timestamp="1587022889950">
+    <state x="419" y="20" width="901" height="1005" key="find.popup" timestamp="1587623500442">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="510" y="17" width="901" height="1005" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587022889950" />
+    <state x="419" y="20" width="901" height="1005" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587623500442" />
     <state width="750" height="530" key="javadoc.popup" timestamp="1587087226245">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

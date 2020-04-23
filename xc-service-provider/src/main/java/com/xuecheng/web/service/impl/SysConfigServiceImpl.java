@@ -1,8 +1,8 @@
 package com.xuecheng.web.service.impl;
 
 import com.xuecheng.domain.SysConfig;
-import com.xuecheng.web.dao.SysConfigMapper;
 import com.xuecheng.web.service.SysConfigService;
+import com.xuecheng.web.dao.master.SysConfigMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
