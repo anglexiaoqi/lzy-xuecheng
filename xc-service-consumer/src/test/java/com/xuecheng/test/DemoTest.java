@@ -52,5 +52,10 @@ public class DemoTest {
         String path = fastDFS.uploadFile(multi.getBytes(), multi.getOriginalFilename());
         System.out.println(path);
     }
+    @Test
+    public void test3() throws Exception{
+
+        System.out.println("11111111111111");
+    }
 
 }

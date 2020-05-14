@@ -17,6 +17,7 @@ spring:
      # max-request-size: 100MB
   datasource:
     db1:
+      # spring2.0此处为jdbc-url
       jdbc-url: jdbc:mysql://192.168.5.161:3306/sys?useUnicode=true&characterEncoding=utf-8&useSSL=false
       username: root
       password: root

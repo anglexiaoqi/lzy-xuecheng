@@ -16,6 +16,10 @@ spring:
       file-size-threshold: 0
       max-file-size: 6MB
       max-request-size: 100MB
+  freemarker:
+    cache: false #关闭模板缓存，方便测试
+    settings:
+      template_update_delay: 0 #检查模板更新延迟时间，设置为0表示立即检查，如果时间大于0会有缓存不方便进行模板测试
 img:
   imgUrl: http://192.168.5.233:8888/
 fastdfs:
@@ -26,3 +30,6 @@ fastdfs:
   http_secret_key: FastDFS1234567890
   http_tracker_http_port: 80
   tracker_servers: 192.168.5.233:22122
+# 显示sql
+logging:
+  config: classpath:conf/logback-spring.xml
